@@ -1,0 +1,20 @@
+{
+  "name": "traffic-lights",
+  "version": "1.0.0",
+  "description": "19级崇新学堂 git 实战仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CXXT-Projects/traffic-lights.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CXXT-Projects/traffic-lights/issues"
+  },
+  "homepage": "https://github.com/CXXT-Projects/traffic-lights#readme"
+}
